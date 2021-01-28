@@ -379,5 +379,8 @@ Formattando poi l'output nelle righe seguenti questo sarà il risultato
 Il programma termina qui la sua esecuzione
 
 ***
-#### Interfaccia Grafica
+## Interfaccia Grafica
+
+***
+## Correzione Errori
 
