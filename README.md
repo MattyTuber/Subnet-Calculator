@@ -377,3 +377,7 @@ Formattando poi l'output nelle righe seguenti questo sarà il risultato
 87.250.64.255
 ~~~
 Il programma termina qui la sua esecuzione
+
+***
+####Interfaccia Grafica
+
